@@ -1,0 +1,16 @@
+Account Number: 8559019178921397
+Name: DP
+Father's Name: DP
+Date of Birth: 2003-01-01
+Email: prasad8790237@gmail.com
+City: DWP
+State: AP
+Pin Code: 533341
+Address: 1-00
+Gender: Male
+Marital Status: Single
+Card Number: 123456789123
+PIN: 879023
+Start Amount: 2900.0
+Email Service: No
+

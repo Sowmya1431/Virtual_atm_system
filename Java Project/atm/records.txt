@@ -1,0 +1,8 @@
+Account Number: 5624407496191245
+Deposit Time: 2026-01-07T15:16:15.618450700
+Deposit Amount: 600.0 ₹
+
+Account Number: 5624407496191245
+Withdrawal Time: 2026-01-07T15:16:41.329715800
+Withdrawal Amount: 200.0 ₹
+

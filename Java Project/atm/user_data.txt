@@ -1,0 +1,16 @@
+Account Number: 5624407496191245
+Name: sowmya mahanthi
+Father's Name: durga raju
+Date of Birth: 2005-06-14
+Email: sowmya4554sp@gmail.com
+City: dwarapudi
+State: Andhra pradesh
+Pin Code: 533341
+Address: vemulapalli
+Gender: Female
+Marital Status: Single
+Card Number: 123456789101
+PIN: 454545
+Start Amount: 5400.0
+Email Service: Yes
+
